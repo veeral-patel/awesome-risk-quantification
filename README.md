@@ -12,6 +12,8 @@ This repository focuses primarily on cybersecurity related risks.
 
 - [Raven](https://github.com/idaholab/raven) - a "flexible and multi-purpose uncertainty quantification, regression analysis, probabilistic risk assessment, data analysis and model optimization framework" from the Idaho National Laboratory
 - [riskquant](https://github.com/Netflix-Skunkworks/riskquant) - a library for computing risk, using different distributions, from Netflix
+- [evaluator](https://github.com/davidski/evaluator) - R package for quantitative risk assessment, based upon [OpenFAIR](https://www.opengroup.org/certifications/openfair)
+- [collector](https://github.com/davidski/collector/) - R package for "conducting quantitative risk assessment interviews"
 
 ## Blog Posts
 
