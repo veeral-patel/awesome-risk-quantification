@@ -1,0 +1,14 @@
+# Awesome Risk Quantification
+
+## Open Source Projects
+
+- [Raven](https://github.com/idaholab/raven)
+- [RiskQuant](https://github.com/Netflix-Skunkworks/riskquant)
+
+## Blog Posts
+
+- [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968)
+- [2018 in Review: How Our Bug Bounty Program Guided Prioritizing Work](https://hackerone.engineering/posts/2018-in-review-how-our-bug-bounty-program-guided-prioritizing-work)
+- [Forecasting Risk inside an Organization](https://wardolphin.party/2020/01/24/Forecasting-risks-inside-an-organisation.html)
+- [Simple Risk Measurement](https://magoo.github.io/simple-risk/)
+- [Ryan McGeehan's Blog](https://scrty.io/) -- Has 30+ posts on measuring risk and forecasting.
