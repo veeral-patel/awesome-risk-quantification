@@ -12,3 +12,8 @@
 - [Forecasting Risk inside an Organization](https://wardolphin.party/2020/01/24/Forecasting-risks-inside-an-organisation.html)
 - [Simple Risk Measurement](https://magoo.github.io/simple-risk/)
 - [Ryan McGeehan's Blog](https://scrty.io/) -- Has 30+ posts on measuring risk and forecasting.
+
+## Books
+
+- [Measuring and Managing Information Risk: A FAIR Approach](https://www.amazon.com/Measuring-Managing-Information-Risk-Approach/dp/0124202314)
+- [How to Measure Anything in Cybersecurity Risk](https://www.amazon.com/How-Measure-Anything-Cybersecurity-Risk-ebook/dp/B01J4XYM16)
