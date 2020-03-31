@@ -17,3 +17,8 @@
 
 - [Measuring and Managing Information Risk: A FAIR Approach](https://www.amazon.com/Measuring-Managing-Information-Risk-Approach/dp/0124202314)
 - [How to Measure Anything in Cybersecurity Risk](https://www.amazon.com/How-Measure-Anything-Cybersecurity-Risk-ebook/dp/B01J4XYM16)
+
+## Talks
+
+- [Quantifying Risk](https://www.infoq.com/presentations/risk-quantification-netflix/) by Markus De Shon (2020)
+- [Forecasting, Browsers, and “In The Wild” Exploitation](https://www.youtube.com/watch?v=vzcmzj-JuWk) by Ryan McGeehan (2019)
