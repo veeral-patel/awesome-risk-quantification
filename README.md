@@ -16,10 +16,10 @@ their [riskquant](https://github.com/Netflix-Skunkworks/riskquant) library
 
 ## Books
 
-- [Measuring and Managing Information Risk: A FAIR Approach](https://www.amazon.com/Measuring-Managing-Information-Risk-Approach/dp/0124202314)
-- [How to Measure Anything in Cybersecurity Risk](https://www.amazon.com/How-Measure-Anything-Cybersecurity-Risk-ebook/dp/B01J4XYM16)
+- [Measuring and Managing Information Risk: A FAIR Approach](https://www.amazon.com/Measuring-Managing-Information-Risk-Approach/dp/0124202314) - describes the [FAIR](https://en.wikipedia.org/wiki/Factor_analysis_of_information_risk) framework for measuring risk
+- [How to Measure Anything in Cybersecurity Risk](https://www.amazon.com/How-Measure-Anything-Cybersecurity-Risk-ebook/dp/B01J4XYM16) - a spin-off of the author's [How to Measure Anything Book](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U), specifically for cybersecurity risk
 
 ## Talks
 
 - [Quantifying Risk](https://www.infoq.com/presentations/risk-quantification-netflix/) by Markus De Shon (2020) - walks through the process of measuring risk, from identifying threats and assets to guessing frequency and magnitude (in terms of money)
-- [Forecasting, Browsers, and “In The Wild” Exploitation](https://www.youtube.com/watch?v=vzcmzj-JuWk) by Ryan McGeehan (2019) - Ryan forecasts the probability of a Chrome zero day being exploited in the wild in a given month  
+- [Forecasting, Browsers, and “In The Wild” Exploitation](https://www.youtube.com/watch?v=vzcmzj-JuWk) by Ryan McGeehan (2019) - Ryan forecasts the probability of a Chrome zero day being exploited in the wild in a certain month  
