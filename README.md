@@ -34,4 +34,8 @@ their [riskquant](https://github.com/Netflix-Skunkworks/riskquant) library
 ## Talks
 
 - [Quantifying Risk](https://www.infoq.com/presentations/risk-quantification-netflix/) by Markus De Shon (2020) - walks through the process of measuring risk, from identifying threats and assets to guessing frequency and magnitude (in terms of money)
-- [Forecasting, Browsers, and “In The Wild” Exploitation](https://www.youtube.com/watch?v=vzcmzj-JuWk) by Ryan McGeehan (2019) - Ryan forecasts the probability of a Chrome zero day being exploited in the wild in a certain month  
+- [Forecasting, Browsers, and “In The Wild” Exploitation](https://www.youtube.com/watch?v=vzcmzj-JuWk) by Ryan McGeehan (2019) - Ryan forecasts the probability of a Chrome zero day being exploited in the wild in a certain month 
+
+## Related Subjects
+
+- [Failure mode and effects analysis (FMEA)](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis) - methodology for identifying the failure modes in a system
