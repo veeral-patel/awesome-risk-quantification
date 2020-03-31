@@ -1,5 +1,13 @@
 # Awesome Risk Quantification
 
+Risk quantification attempts to assign numeric values to risks, instead of qualitative labels such as "Critical"
+and "High".
+
+Doing this makes it easier to prioritize the different risks we need to mitigate. Also, "you can't
+improve what you can't measure"!
+
+This repository focuses primarily on cybersecurity related risks.
+
 ## Open Source Projects
 
 - [Raven](https://github.com/idaholab/raven) - a "flexible and multi-purpose uncertainty quantification, regression analysis, probabilistic risk assessment, data analysis and model optimization framework" from the Idaho National Laboratory
