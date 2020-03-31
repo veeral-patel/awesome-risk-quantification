@@ -2,15 +2,16 @@
 
 ## Open Source Projects
 
-- [Raven](https://github.com/idaholab/raven)
-- [RiskQuant](https://github.com/Netflix-Skunkworks/riskquant)
+- [Raven](https://github.com/idaholab/raven) -- a "flexible and multi-purpose uncertainty quantification, regression analysis, probabilistic risk assessment, data analysis and model optimization framework" from the Idaho National Laboratory
+- [riskquant](https://github.com/Netflix-Skunkworks/riskquant) -- a library for computing risk, using different distributions, from Netflix
 
 ## Blog Posts
 
-- [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968)
+- [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968) -- Demonstrates how to use
+their [riskquant](https://github.com/Netflix-Skunkworks/riskquant) library
 - [2018 in Review: How Our Bug Bounty Program Guided Prioritizing Work](https://hackerone.engineering/posts/2018-in-review-how-our-bug-bounty-program-guided-prioritizing-work)
-- [Forecasting Risk inside an Organization](https://wardolphin.party/2020/01/24/Forecasting-risks-inside-an-organisation.html)
-- [Simple Risk Measurement](https://magoo.github.io/simple-risk/)
+- [Forecasting Risk inside an Organization](https://wardolphin.party/2020/01/24/Forecasting-risks-inside-an-organisation.html) -- A post on how Atlassian attempts to forecast the chance of detecting red team operations, with the goal of improving detection over time.
+- [Simple Risk Measurement](https://magoo.github.io/simple-risk/) -- In-depth guide covering scenarios, calibration, panels, Brier scores, Monte Carlo simulations, and a lot more.
 - [Ryan McGeehan's Blog](https://scrty.io/) -- Has 30+ posts on measuring risk and forecasting.
 
 ## Books
