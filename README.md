@@ -19,7 +19,7 @@ This repository focuses primarily on cybersecurity related risks.
 
 - [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968) - demonstrates how to use
 their [riskquant](https://github.com/Netflix-Skunkworks/riskquant) library
-- [2018 in Review: How Our Bug Bounty Program Guided Prioritizing Work](https://hackerone.engineering/posts/2018-in-review-how-our-bug-bounty-program-guided-prioritizing-work) - discusses how HackerOne uses bug bounty related metrics, like time to resolution, to help choose between different security initiatives
+- [2018 in Review: How Our Bug Bounty Program Guided Prioritizing Work](https://hackerone.engineering/posts/2018-in-review-how-our-bug-bounty-program-guided-prioritizing-work) - discusses how HackerOne uses bug bounty related metrics, like time to resolution, to prioritize certain security initiatives
 - [Forecasting Risk inside an Organization](https://wardolphin.party/2020/01/24/Forecasting-risks-inside-an-organisation.html) - a post on how Atlassian attempts to forecast the chance of detecting red team operations, with the goal of improving detection over time.
 - [Simple Risk Measurement](https://magoo.github.io/simple-risk/) - in-depth guide covering scenarios, calibration, panels, Brier scores, Monte Carlo simulations, and a lot more. Check out his [reading list](https://magoo.github.io/simple-risk/reading.html) as well.
 - [Ryan McGeehan's blog](https://scrty.io/) - has 30+ posts on measuring risk and forecasting.
