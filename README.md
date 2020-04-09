@@ -25,7 +25,7 @@ This repository focuses primarily on cybersecurity related risks.
 - [Ryan McGeehan's blog](https://scrty.io/) - has 30+ posts on measuring risk and forecasting.
 - [Risk Management: Out with the Old, In with the New!](https://exploringpossibilityspace.blogspot.com/2013/08/risk-management-out-with-old-in-with-new.html) - proposes we think of risks as parts of an interconnected system, not as isolated entities
 - [A New Approach for Managing Operational Risk](https://www.soa.org/globalassets/assets/files/research/projects/research-new-approach.pdf) - expounds on the approach in the article above, applying it to financial risk specifically
-- [Developing expert political judgment](http://journal.sjdm.org/16/16511/jdm16511.pdf)
+- [Developing expert political judgment](http://journal.sjdm.org/16/16511/jdm16511.pdf) - describes a cognitive debiasing course sponsored by the intelligence community which increased Brier scores by 6 to 11%
 - [Scoring rules for forecast verification](https://journals.ametsoc.org/doi/pdf/10.1175/2009MWR2945.1)
 - [Ten commandments for superforecasters](https://fs.blog/2015/12/ten-commandments-for-superforecasters/)
 
