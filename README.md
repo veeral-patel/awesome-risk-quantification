@@ -34,7 +34,7 @@ This repository focuses primarily on cybersecurity related risks.
 - [How to Measure Anything in Cybersecurity Risk](https://www.amazon.com/How-Measure-Anything-Cybersecurity-Risk-ebook/dp/B01J4XYM16) - a spin-off of the author's [How to Measure Anything Book](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U), specifically for cybersecurity risk
 - [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718) - describes what skills make a person great at the art of prediction, even if the person lacks domain expertise
 - [Expert Political Judgment](https://www.amazon.com/Expert-Political-Judgment-Good-Know-ebook/dp/B072F4X6QY) - points out the "perversely inverse relationship between the best scientific indicators of good judgement and the qualities that the media most prizes in pundits"
-- [Loss Models](https://www.amazon.com/Loss-Models-Decisions-Probability-Statistics/dp/1119523788/) - discusses techniques including "random variables, basic distributional quantities, parametric, non-parametric, Bayesian estimation methods"
+- [Loss Models](https://www.amazon.com/Loss-Models-Decisions-Probability-Statistics/dp/1119523788/) - discusses techniques including "random variables, basic distributional quantities, parametric, non-parametric, Bayesian estimation methods". originally for actuaries
 
 ## Talks
 
