@@ -27,6 +27,7 @@ This repository focuses primarily on cybersecurity related risks.
 - [A New Approach for Managing Operational Risk](https://www.soa.org/globalassets/assets/files/research/projects/research-new-approach.pdf) - expounds on the approach in the article above, applying it to financial risk specifically
 - [Developing expert political judgment](http://journal.sjdm.org/16/16511/jdm16511.pdf)
 - [Scoring rules for forecast verification](https://journals.ametsoc.org/doi/pdf/10.1175/2009MWR2945.1)
+- [Ten commandments for superforecasters](https://fs.blog/2015/12/ten-commandments-for-superforecasters/)
 
 ## Books
 
