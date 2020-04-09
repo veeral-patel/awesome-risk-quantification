@@ -26,16 +26,15 @@ This repository focuses primarily on cybersecurity related risks.
 - [Risk Management: Out with the Old, In with the New!](https://exploringpossibilityspace.blogspot.com/2013/08/risk-management-out-with-old-in-with-new.html) - proposes we think of risks as parts of an interconnected system, not as isolated entities
 - [A New Approach for Managing Operational Risk](https://www.soa.org/globalassets/assets/files/research/projects/research-new-approach.pdf) - expounds on the approach in the article above, applying it to financial risk specifically
 - [Developing expert political judgment](http://journal.sjdm.org/16/16511/jdm16511.pdf) - describes a cognitive debiasing course sponsored by the intelligence community which increased Brier scores by 6 to 11%
-- [Scoring rules for forecast verification](https://journals.ametsoc.org/doi/pdf/10.1175/2009MWR2945.1)
-- [Ten commandments for superforecasters](https://fs.blog/2015/12/ten-commandments-for-superforecasters/)
+- [Ten commandments for superforecasters](https://fs.blog/2015/12/ten-commandments-for-superforecasters/) - lists ten practical tips for producing more accurate predictions
 
 ## Books
 
 - [Measuring and Managing Information Risk: A FAIR Approach](https://www.amazon.com/Measuring-Managing-Information-Risk-Approach/dp/0124202314) - describes the [FAIR](https://en.wikipedia.org/wiki/Factor_analysis_of_information_risk) framework for measuring risk
 - [How to Measure Anything in Cybersecurity Risk](https://www.amazon.com/How-Measure-Anything-Cybersecurity-Risk-ebook/dp/B01J4XYM16) - a spin-off of the author's [How to Measure Anything Book](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U), specifically for cybersecurity risk
-- [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718)
-- [Expert Political Judgment](https://www.amazon.com/Expert-Political-Judgment-Good-Know-ebook/dp/B072F4X6QY)
-- [Loss Models](https://www.amazon.com/Loss-Models-Decisions-Probability-Statistics/dp/1119523788/)
+- [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock/dp/0804136718) - describes what skills make a person great at the art of prediction, even if the person lacks domain expertise
+- [Expert Political Judgment](https://www.amazon.com/Expert-Political-Judgment-Good-Know-ebook/dp/B072F4X6QY) - points out the "perversely inverse relationship between the best scientific indicators of good judgement and the qualities that the media most prizes in pundits"
+- [Loss Models](https://www.amazon.com/Loss-Models-Decisions-Probability-Statistics/dp/1119523788/) - discusses techniques including "random variables, basic distributional quantities, parametric, non-parametric, Bayesian estimation methods"
 
 ## Talks
 
