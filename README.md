@@ -27,6 +27,7 @@ This repository focuses primarily on cybersecurity related risks.
 - [A New Approach for Managing Operational Risk](https://www.soa.org/globalassets/assets/files/research/projects/research-new-approach.pdf) - expounds on the approach in the article above, applying it to financial risk specifically
 - [Developing expert political judgment](http://journal.sjdm.org/16/16511/jdm16511.pdf) - describes a cognitive debiasing course sponsored by the intelligence community which increased Brier scores by 6 to 11%
 - [Ten commandments for superforecasters](https://fs.blog/2015/12/ten-commandments-for-superforecasters/) - lists ten practical tips for producing more accurate predictions
+- [Weather analysis and forecasting](https://www.ametsoc.org/ams/index.cfm/about-ams/ams-statements/statements-of-the-ams-in-force/weather-analysis-and-forecasting/) - a high-level overview of how meteorologists predict the weather
 
 ## Books
 
