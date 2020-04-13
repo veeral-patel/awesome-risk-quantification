@@ -17,6 +17,7 @@ This repository focuses primarily on cybersecurity related risks.
 
 ## Blog Posts and Papers
 
+- [7 techniques for assessing frequency when quantifying cybersecurity risks](https://medium.com/@veeralpatel/7-techniques-for-assessing-frequency-when-quantifying-risk-2fdd0bf26c77) - describes 7 techniques I either came up with, or found while researching risk quantification, for estimating the frequency of bad events
 - [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968) - demonstrates how to use
   their [riskquant](https://github.com/Netflix-Skunkworks/riskquant) library
 - [2018 in Review: How Our Bug Bounty Program Guided Prioritizing Work](https://hackerone.engineering/posts/2018-in-review-how-our-bug-bounty-program-guided-prioritizing-work) - discusses how HackerOne uses bug bounty related metrics, like time to resolution, to prioritize certain security initiatives
